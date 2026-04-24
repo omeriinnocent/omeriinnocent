@@ -3,7 +3,7 @@
 Developer focused on building modern, reliable web applications and contributing to open-source healthcare technology.
 
 ## Portfolio
-- Live Portfolio: https://omeriinnocent.github.io
+- Live Portfolio: https://omeri-e369d4.netlify.app/
 
 ## Tech Stack
 - JavaScript
@@ -20,7 +20,7 @@ Developer focused on building modern, reliable web applications and contributing
 
 ## Connect
 - GitHub: https://github.com/omeriinnocent
-- Portfolio: https://omeriinnocent.github.io
+- Portfolio: https://omeri-e369d4.netlify.app/
 
 ---
 Thanks for visiting my profile.
